@@ -1,3 +1,3 @@
 # AI Fellowship Proposal
 
-[Case for Support](case_for_support)
+[Case for Support](case_for_support.md)
